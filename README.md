@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="sreecharanpujari_github_banner.png" width="100%" alt="Sree Charan Pujari - Developer Banner">
+</p>
+
+---
+
 # 👋 Hey, I'm Sree Charan Pujari!
 
 ### 🚀 Student Developer | Python Enthusiast | Future Software Engineer
